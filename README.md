@@ -1,16 +1,11 @@
-## Hi there 👋
+<!-- ===== Header banner ===== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Hi%2C%20I'm%20Amine%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" /> </p> <!-- ===== Animated typing line ===== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Informatics+%40+TUM;LLMs+%C3%97+Software+Security;Automated+Vulnerability+Repair;Process+Engines+%2B+AI" alt="typing" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AmineHadd&color=1f6feb&style=flat&label=Profile+views" alt="profile views" /> </p>
+🧑‍💻 About me
+🎓 Computer Science at the Technical University of Munich (TUM)
+💬 Ask me about: LLMs for code, software security, workflow automation
 
-<!--
-**AmineHadd/AmineHadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech stack
+<!-- Edit the icon list after ?i= to match what you actually use. All available names: https://skillicons.dev --> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,java,latex,git,github,docker,linux,vscode&perline=8" alt="tech stack" /> </a> </p>
+📊 GitHub stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmineHadd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineHadd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=AmineHadd&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
+🤝 Connect with me
+<!-- Replace YOUR-LINKEDIN and your@email.com with your own details (or delete a badge you don't want) --> <p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/AmineHadd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p> <!-- ===== Footer banner ===== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" alt="footer" /> </p>
